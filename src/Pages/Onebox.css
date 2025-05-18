@@ -1,0 +1,23 @@
+.onebox-bg {
+  background-color: #000;
+  color: white ! important;
+}
+
+.active-folder {
+  background-color: #0d6efd !important;
+  color: white !important;
+}
+
+.list-group-item {
+  background-color: #1a1a1a;
+  border-color: #333;
+   color: white !important;
+}
+
+.list-group-item:hover {
+  background-color: #beafaf;
+}
+
+hr.bg-light {
+  border-top: 1px solid #999;
+}
